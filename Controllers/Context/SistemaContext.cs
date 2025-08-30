@@ -1,6 +1,7 @@
 ﻿using Controllers.map;
 using Controllers.Map;
 using Entidades;
+using Microsoft.SqlServer.Server;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -13,7 +14,9 @@ namespace Controllers.Context
 {
     public class SistemaContext : DbContext
     {
-        public SistemaContext() : base("Server=DESKTOP-EKABDE2\\SQLEXPRESS01; Database=lufh_produtos;Integrated Security=True;")
+        private static readonly string server = "localhost\\SQLEXPRESS";
+        private static readonly string db = "lufhprodutos";
+        public SistemaContext() : base($"Server={server}; Database={db};Integrated Security=True;")
         {
 
         }
