@@ -1,0 +1,126 @@
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+D:\Downloads\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\bin\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\WcfService1\obj\Debug\WcfService1.pdb

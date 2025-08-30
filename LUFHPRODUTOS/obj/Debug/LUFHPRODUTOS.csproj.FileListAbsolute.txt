@@ -1,0 +1,270 @@
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+D:\Downloads\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\Users\nidla\Documents\LUFHPRODUTOS_Estável (1)\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadPedido.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadProduto.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadServico.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadSolicitante.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadTipoDeServico.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadPedido.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadProduto.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadServico.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadSolicitante.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadTipoDeServico.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadPedido.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadProduto.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadSolicitante.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadTipoDeServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.exe
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\LUFHPRODUTOS.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\WcfService1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\bin\Debug\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadastroEquipe.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadPedido.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadProduto.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadSolicitante.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCadTipoDeServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmCodRecuperarSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarEquipe.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarPedido.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarPerfil.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarProdutos.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarSolicitante.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmEditarTipoDeServico.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmLogin.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmManipularSolicitacoes.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmNovaSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmPrincipal.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmRecuperarSenha.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarEquipe.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarPedidos.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarPerfil.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarProdutos.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarServicos.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarSolicitantes.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.Properties.Resources.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.GenerateResource.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPROD.F1CCC33D.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.exe
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\LUFHPRODUTOS\obj\Debug\LUFHPRODUTOS.frmVisualizarTipoServico.resources

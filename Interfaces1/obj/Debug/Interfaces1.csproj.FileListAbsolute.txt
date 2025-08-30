@@ -1,0 +1,98 @@
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+D:\Downloads\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfac.205D4568.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Interfaces1\obj\Debug\Interfaces1.pdb

@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B1E5AEC-2A45-4439-941D-C7F9EA6F498E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LUFHPRODUTOS</RootNamespace>
+    <AssemblyName>LUFHPRODUTOS</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FRM_VIS\frmVisualizarTipoServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarTipoServico.Designer.cs">
+      <DependentUpon>frmVisualizarTipoServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadastroEquipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadastroEquipe.Designer.cs">
+      <DependentUpon>frmCadastroEquipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadPedido.Designer.cs">
+      <DependentUpon>frmCadPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadProduto.Designer.cs">
+      <DependentUpon>frmCadProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadServico.Designer.cs">
+      <DependentUpon>frmCadServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadSolicitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadSolicitante.Designer.cs">
+      <DependentUpon>frmCadSolicitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadTipoDeServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_CAD\frmCadTipoDeServico.Designer.cs">
+      <DependentUpon>frmCadTipoDeServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmCodRecuperarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmCodRecuperarSenha.Designer.cs">
+      <DependentUpon>frmCodRecuperarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarEquipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarEquipe.Designer.cs">
+      <DependentUpon>frmEditarEquipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarPedido.Designer.cs">
+      <DependentUpon>frmEditarPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarPerfil.Designer.cs">
+      <DependentUpon>frmEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarProdutos.Designer.cs">
+      <DependentUpon>frmEditarProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarServico.Designer.cs">
+      <DependentUpon>frmEditarServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarSolicitante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarSolicitante.Designer.cs">
+      <DependentUpon>frmEditarSolicitante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarTipoDeServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_EDIT\frmEditarTipoDeServico.Designer.cs">
+      <DependentUpon>frmEditarTipoDeServico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmManipularSolicitacoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmManipularSolicitacoes.Designer.cs">
+      <DependentUpon>frmManipularSolicitacoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmNovaSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmNovaSenha.Designer.cs">
+      <DependentUpon>frmNovaSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmRecuperarSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_LOGIN\frmRecuperarSenha.Designer.cs">
+      <DependentUpon>frmRecuperarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarEquipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarEquipe.Designer.cs">
+      <DependentUpon>frmVisualizarEquipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarPedidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarPedidos.Designer.cs">
+      <DependentUpon>frmVisualizarPedidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarPerfil.Designer.cs">
+      <DependentUpon>frmVisualizarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarProdutos.Designer.cs">
+      <DependentUpon>frmVisualizarProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarServicos.Designer.cs">
+      <DependentUpon>frmVisualizarServicos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarSolicitantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRM_VIS\frmVisualizarSolicitantes.Designer.cs">
+      <DependentUpon>frmVisualizarSolicitantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FRM_CAD\frmCadastroEquipe.resx">
+      <DependentUpon>frmCadastroEquipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CAD\frmCadPedido.resx">
+      <DependentUpon>frmCadPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CAD\frmCadProduto.resx">
+      <DependentUpon>frmCadProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CAD\frmCadServico.resx">
+      <DependentUpon>frmCadServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CAD\frmCadSolicitante.resx">
+      <DependentUpon>frmCadSolicitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_CAD\frmCadTipoDeServico.resx">
+      <DependentUpon>frmCadTipoDeServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_LOGIN\frmCodRecuperarSenha.resx">
+      <DependentUpon>frmCodRecuperarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarEquipe.resx">
+      <DependentUpon>frmEditarEquipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarPedido.resx">
+      <DependentUpon>frmEditarPedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarPerfil.resx">
+      <DependentUpon>frmEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarProdutos.resx">
+      <DependentUpon>frmEditarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarServico.resx">
+      <DependentUpon>frmEditarServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarSolicitante.resx">
+      <DependentUpon>frmEditarSolicitante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_EDIT\frmEditarTipoDeServico.resx">
+      <DependentUpon>frmEditarTipoDeServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_LOGIN\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmManipularSolicitacoes.resx">
+      <DependentUpon>frmManipularSolicitacoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_LOGIN\frmNovaSenha.resx">
+      <DependentUpon>frmNovaSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_LOGIN\frmRecuperarSenha.resx">
+      <DependentUpon>frmRecuperarSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarEquipe.resx">
+      <DependentUpon>frmVisualizarEquipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarPedidos.resx">
+      <DependentUpon>frmVisualizarPedidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarPerfil.resx">
+      <DependentUpon>frmVisualizarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarProdutos.resx">
+      <DependentUpon>frmVisualizarProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarServicos.resx">
+      <DependentUpon>frmVisualizarServicos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarSolicitantes.resx">
+      <DependentUpon>frmVisualizarSolicitantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRM_VIS\frmVisualizarTipoServico.resx">
+      <DependentUpon>frmVisualizarTipoServico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controllers\Controllers.csproj">
+      <Project>{47b02e50-c35a-45a4-9391-97bb0270d931}</Project>
+      <Name>Controllers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{a70732bc-c089-4ed6-a494-2727b2d5c792}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WcfService1\WcfService1.csproj">
+      <Project>{d8df30fb-7600-4bf6-880f-980655d24538}</Project>
+      <Name>WcfService1</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>

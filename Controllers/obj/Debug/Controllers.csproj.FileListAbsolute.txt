@@ -1,0 +1,158 @@
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\manoe\source\repos\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+D:\Downloads\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+D:\Downloads\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco5.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco5.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco6.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco5.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco6.resources
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\PROJETOS C#\LUFHPRODUTOS_LoginOkComPrincipal\LUFHPRODUTOS_LoginOk\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco5.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco6.resources
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\Users\nidla\Documents\LUFHPRODUTOS_5555555555\LUFHPRODUTOS vez 5555555555\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco2.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco3.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco4.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco5.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco6.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco7.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco8.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco9.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll.config
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\Entidades.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controll.01F35609.Up2Date
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.dll
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.pdb
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.Migrations.banco.resources
+C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
