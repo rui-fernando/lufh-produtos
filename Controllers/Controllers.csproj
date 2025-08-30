@@ -60,9 +60,9 @@
     <Compile Include="Map\SolicitacoesMap.cs" />
     <Compile Include="Map\SolicitanteMap.cs" />
     <Compile Include="Map\TipoServicoMap.cs" />
-    <Compile Include="Migrations\202502040046566_banco.cs" />
-    <Compile Include="Migrations\202502040046566_banco.Designer.cs">
-      <DependentUpon>202502040046566_banco.cs</DependentUpon>
+    <Compile Include="Migrations\202508300155214_database.cs" />
+    <Compile Include="Migrations\202508300155214_database.Designer.cs">
+      <DependentUpon>202508300155214_database.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -87,8 +87,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202502040046566_banco.resx">
-      <DependentUpon>202502040046566_banco.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202508300155214_database.resx">
+      <DependentUpon>202508300155214_database.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

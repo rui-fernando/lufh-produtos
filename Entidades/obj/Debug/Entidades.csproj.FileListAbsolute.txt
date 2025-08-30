@@ -40,3 +40,9 @@ C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS
 C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.dll
 C:\Users\Manoel Barros\Downloads\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\bin\Debug\Entidades.dll
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.dll
+C:\Users\Rui Fernando\Downloads\LUFHPRODUTOS_Feito\LUFHPRODUTOS_Estável(Formularios)\LUFHPRODUTOS_Estável(Login, Cad)\LUFHPRODUTOS_PedidoProduto\LUFHPRODUTOS\Entidades\obj\Debug\Entidades.pdb
