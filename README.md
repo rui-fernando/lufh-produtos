@@ -64,4 +64,4 @@ Projeto descontinuado — substituído por versões posteriores do sistema.
 
 ## 👤 Autor
 
-Desenvolvido por Rui Fernando, estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB), como parte de projeto de pesquisa institucional.
+Desenvolvido em equipe por Rui Fernando, estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB), como parte de projeto de pesquisa institucional.
